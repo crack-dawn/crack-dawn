@@ -1,7 +1,7 @@
 
 # 联系方式
 
-（HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
+我尝试创建的模板hugo静态github pages： https://crack-dawn.github.io/CTGU-Hugo-Blog.io/
 
 - 手机：186.... （如果是外地手机，可注明。如经常关机，要写上最优联系时间）
 - Email：goodman@gmail.com （虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G，非要用的话，不要用数字邮箱名）
